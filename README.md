@@ -5,3 +5,13 @@ Language and Tools:
 For front end: HTML, CSS, BOOTSRAP, JS
 For backend: Django
 Tools: VS Code Editor
+
+some screenshots:
+![image](https://github.com/user-attachments/assets/27c65d95-6866-4520-b93a-72e622aa77c9)
+
+![image](https://github.com/user-attachments/assets/f44a47eb-3840-47fe-bb58-e6d0b3231936)
+![image](https://github.com/user-attachments/assets/4e923587-3fcd-4096-a7db-96d317c4328f)
+
+![image](https://github.com/user-attachments/assets/4f1b5c67-a82a-47d4-b3d5-0cf4fa77bdd6)
+
+
